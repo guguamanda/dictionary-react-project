@@ -1,0 +1,9 @@
+.Photos img {
+  border-radius: 6px;
+  margin: 12px 0;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
